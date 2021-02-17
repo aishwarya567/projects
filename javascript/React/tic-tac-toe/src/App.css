@@ -1,0 +1,44 @@
+.square {
+  background-color: peachpuff;
+  border: 1px, #999999 solid;
+  float: left;
+  font-size: 50px;
+  font-weight: bold;
+  margin-right: -1px;
+  margin-top: -1px ;
+  padding: 0;
+  text-align: center;
+  width: 80px;
+  height: 80px;
+  display: inline-block;
+  border-radius: 5px;
+}
+.board-row:after{
+
+  clear: both;
+  
+  content: "";
+  
+  display: table;
+  
+  }
+
+.game{
+  position: absolute;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  margin: 0 auto;
+}
+
+ul{
+  padding-left: 30px;
+}
+
+.game_info{
+  margin-left: 20px; 
+}
+.status{
+  margin-bottom: 20px;
+}
