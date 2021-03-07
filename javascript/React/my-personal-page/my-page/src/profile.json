@@ -1,0 +1,58 @@
+{
+    "title": "Aspiring Software Engineer",
+    "summary": "Looking to start my career as an entry-level Software Engineer / Software Developer in a well growth oriented organisation, where I can Implement and enhance my technical skills, contributing to making an impact to organisation.",
+    "studies": [
+      {
+        "logo": "https://pbs.twimg.com/profile_images/1102822153559396352/lJC3eDKt_400x400.png",
+        "institute": "RajaRajeshwari college of Engineering",
+    
+        "title": "Bachelor on Computer Science",
+        "durationInYears": "4",
+        "graduationYear": 2019
+      }
+    ],
+    "certifications": [
+      {
+        "logo": "https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg",
+        "url": "https://www.udemy.com/certificate/UC-c7f211ec-b248-4c14-acc1-8085a787af3b/",
+        "title": "Learn Data Structures and Algorithms",
+        "issuer": "Udemy",
+        "issueDate": "2019-02-18",
+        "verificationLink": "UC-c7f211ec-b248-4c14-acc1-8085a787af3b"
+      },
+      {
+        "logo": "https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg",
+        "url": "https://www.udemy.com/certificate/UC-5baed4a7-b768-4021-a660-3d74c60ec4ff/",
+        "title": "A complete reference guide to javascript ES6",
+        "issuer": "Udemy",
+        "issueDate": "2020-09-01",
+        "verificationLink": "https://www.udemy.com/certificate/UC-5baed4a7-b768-4021-a660-3d74c60ec4ff/"
+      },
+      {
+        "logo": "https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg",
+        "url": "https://www.udemy.com/certificate/UC-ac8473b8-fb84-4afe-9df8-bb8cdb4e479b/",
+        "title": "HTML CSS Learn to create website from scratch",
+        "issuer": "Udemy",
+        "issueDate": "2020-11-01",
+        "verificationLink": "https://www.udemy.com/certificate/UC-ac8473b8-fb84-4afe-9df8-bb8cdb4e479b/"
+      }
+    ],
+    "experiences": [
+      {
+        "companyName": "EdukShema",
+        "logo": "https://edukshema.com/logo.2d61c46d1609b2e5992c.png",
+        "url": "https://edukshema.com/",
+        "roles": [
+          {
+            "title": "Associate Software Engineer",
+            "description": "Handle admin panel. Build internal features for our product",
+            "startDate": "2020-11-14",
+            "currentJob": true,
+            "location": "Bangalore"
+          }
+        ]
+      }
+    ]
+     
+  }
+  
